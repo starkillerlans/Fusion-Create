@@ -1,0 +1,5 @@
+schemaVersion: 1
+modpackName: "Fusion Create Modpack"
+modpackAuthor: "StarkillerSL"
+versionCheckerUrl: "https://raw.githubusercontent.com/starkillerlans/Fusion-Create/main/active.json"
+fileBaseUrl: "https://raw.githubusercontent.com/starkillerlans/Fusion-Create/main/"
