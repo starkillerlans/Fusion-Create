@@ -7,7 +7,7 @@
     "neoforge": "21.1.234"
   },
   "files": [
-    { "path": "mods/copycats-3.0.4mc.1.21.1-neoforge.jar", "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1", "size": 1791747 },
+    { "path": "mods/copycats-3.0.4-v2.jar", "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1", "size": 1791747 },
     { "path": "mods/CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar", "sha256": "1375ba1b50e53fd09435029b5b2d5b94779ba397cca7e01180d07b0f624e5b9b", "size": 693446 },
     { "path": "mods/cmparallelpipes-neoforge-2.0.2.jar", "sha256": "da852ea8c3588bd775ec038743bb3c8332a68e84fd969d56947f62cbf9fc3e11", "size": 28606 },
     { "path": "mods/cbc_at_Neoforge_1.21.1_0.1.4c.jar", "sha256": "88fb40b3353308c90d68f4512b78b63fd7278d05915d9d8628cecab9508ee58f", "size": 1438535 },
