@@ -1,0 +1,10 @@
+{
+  "version": "v6.7",
+  "pack": {
+    "name": "Fusion Create SMP",
+    "version": "6.7",
+    "minecraft": "1.21.1",
+    "neoforge": "21.1.234"
+  },
+  "files": []
+}
